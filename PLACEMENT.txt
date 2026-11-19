@@ -1,0 +1,1 @@
+These six pages are neutral test previews, not the linked midterm HTML converted to PHP. Copy into a separate test project, not over the original website. The real pages must be adapted after the original source is supplied.

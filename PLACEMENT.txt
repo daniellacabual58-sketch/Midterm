@@ -1,1 +1,1 @@
-These six pages are neutral test previews, not the linked midterm HTML converted to PHP. Copy into a separate test project, not over the original website. The real pages must be adapted after the original source is supplied.
+Merge the contents of this folder into a separate local working copy for testing. Do not overwrite an original midterm file without reviewing it. See README_START_HERE.md.
